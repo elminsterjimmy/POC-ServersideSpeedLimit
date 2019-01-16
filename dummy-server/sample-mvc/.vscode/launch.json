@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<sample-mvc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.elminster.samplemvc.DemoApplication",
+            "projectName": "sample-mvc",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<sample-mvc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.elminster.samplemvc.Application",
+            "projectName": "sample-mvc",
+            "args": ""
+        }
+    ]
+}
